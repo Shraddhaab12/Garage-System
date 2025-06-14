@@ -16,9 +16,6 @@ The Garage Management System is a web-based software built using HTML, CSS, Boot
 
 OUTPUT SCREENS:
 
-🔐 Login Page
-![Screenshot (193)](https://github.com/user-attachments/assets/61e1c0fc-00f1-47e2-8839-195b7de29471)
-
 
 🏠 Dashboard
 ![Screenshot (192)](https://github.com/user-attachments/assets/5149f02e-b757-463e-baef-bde4f994a525)
