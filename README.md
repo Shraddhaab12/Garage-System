@@ -71,16 +71,17 @@ Garage-Management-System/
 ⚙️ How to Run the Project
 
 1. **Download** or **clone** this repository.
-2. Extract and move the project folder into `htdocs`:
+   https://github.com/Shraddhaab12/Garage-System
+3. Extract and move the project folder into `htdocs`:
     ```
     C:\xampp\htdocs\Garage-Management-System\
     ```
-3. **Start Apache and MySQL** using XAMPP Control Panel.
-4. **Setup the database**:
+4. **Start Apache and MySQL** using XAMPP Control Panel.
+5. **Setup the database**:
     - Open [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
     - Create a new database (e.g., `garage`)
     - Import the `garage.sql` file provided in the project root.
-5. **Access the system** in your browser:
+6. **Access the system** in your browser:
     ```
     http://localhost/Garage-Management-System/
     ```
